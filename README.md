@@ -122,4 +122,4 @@ options.
 
 See the [SYCL CTS Developer Documentation](docs).
 Created by Jason Heise
-https://next.frame.io
+Owned by Jason Heise heisejason-png Giters
